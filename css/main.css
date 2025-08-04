@@ -106,7 +106,7 @@ ul li {
 	position: fixed;
 	width: 100%;
 	z-index: 999;
-	/* background: rgba(0, 0, 0, 0.18); */
+	background: #020d59;
 }
 #header .header-content {
 	margin: 0 auto;
@@ -928,6 +928,7 @@ footer.footer h2 {
 	font-size: 11px;
 	margin: 0 2px;
 }
+
 
 
 
