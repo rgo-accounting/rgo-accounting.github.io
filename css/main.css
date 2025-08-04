@@ -405,7 +405,7 @@ Common Styles
     transform: rotate(3deg);
 }
 .services .icon {
-	color: #9e015e;
+	color: #020d59;
 	font-size: 38px;
 	/* padding-left: 15px; */
 	float: left;
@@ -928,6 +928,7 @@ footer.footer h2 {
 	font-size: 11px;
 	margin: 0 2px;
 }
+
 
 
 
