@@ -129,7 +129,7 @@ ul li {
 	margin-top: -10px;
 }
 #header.fixed {
-	background-color: #9e015e;
+	background-color: #020d59;
 }
 #header.fixed a {
 	/* color: #000; */
@@ -928,5 +928,6 @@ footer.footer h2 {
 	font-size: 11px;
 	margin: 0 2px;
 }
+
 
 
